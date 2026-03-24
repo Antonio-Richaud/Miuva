@@ -1,0 +1,116 @@
+# ------------------------------
+# macOS / Finder basura
+# ------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# ------------------------------
+# Windows basura
+# ------------------------------
+Thumbs.db
+Desktop.ini
+
+# ------------------------------
+# Editores / IDEs
+# ------------------------------
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ------------------------------
+# Logs / temporales
+# ------------------------------
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ------------------------------
+# Node / frontend
+# ------------------------------
+node_modules/
+.npm/
+.pnpm-store/
+dist/
+build/
+.next/
+.nuxt/
+.cache/
+coverage/
+
+# ------------------------------
+# Entornos y secretos
+# ------------------------------
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.crt
+
+# ------------------------------
+# Binarios / compilados comunes
+# ------------------------------
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.class
+
+# ------------------------------
+# Archivos generados de compresión
+# ------------------------------
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# ------------------------------
+# Binarios y artefactos de microcontroladores
+# Ajusta si decides versionarlos en un proyecto específico
+# ------------------------------
+*.hex
+*.elf
+*.map
+*.lst
+*.cod
+
+# ------------------------------
+# Carpetas locales opcionales
+# ------------------------------
+tmp/
+temp/
