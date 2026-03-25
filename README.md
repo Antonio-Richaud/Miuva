@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://AQUI-VA-TU-LINK-DE-INTESC">
-    <img src="assets/imagenes/logos/logo-intesc-300x300.png" alt="Intesc" width="24">
     <img src="https://img.shields.io/badge/Compra%20tu%20Miuva-DC2626?style=for-the-badge" alt="Compra tu Miuva">
   </a>
   <a href="#indice-de-proyectos">
