@@ -101,7 +101,6 @@ coverage/
 
 # ------------------------------
 # Binarios y artefactos de microcontroladores
-# Ajusta si decides versionarlos en un proyecto específico
 # ------------------------------
 *.hex
 *.elf
